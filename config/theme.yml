@@ -1,0 +1,6 @@
+parent: classic
+name: child_classic
+display_name: AIS theme of classic's theme
+version: 2.1.5
+assets:
+  use_parent_assets: false
