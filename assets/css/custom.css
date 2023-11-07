@@ -2,64 +2,64 @@
  * Custom code goes here.
  * A template should always ship with an empty custom.css
  */
-
+/* ff6600ff */
 .product-flags li.product-flag {
-    background: #d98200
+    background: #ff6600ff
 }
 
 #header .header-nav .cart-preview.active {
-    background: #d98200;
+    background: #ff6600ff;
 }
 
 .product-price {
-    color: #d98200;
+    color: #ff6600ff;
 }
 
 .btn-primary {
-    background-color: #d98200;
+    background-color: #ff6600ff;
 }
 
 .btn-primary:hover {
-    background-color: #8e5603;
+    background-color: #ff6600ff;
 }
 
 a:hover {
-    color: #d98200 !important;
+    color: #ff6600ff !important;
 }
 div.cart-preview.active i:hover {
     color: #fff !important;
 }
 
 .tabs .nav-tabs .nav-link.active, .tabs .nav-tabs .nav-link:hover {
-    border-bottom: #d98200 3px solid;
+    border-bottom: #ff6600ff 3px solid;
 }
 
 .product-images>li.thumb-container .thumb.selected, .product-images>li.thumb-container .thumb:hover {
-    border: #d98200 3px solid;
+    border: #ff6600ff 3px solid;
 }
 
 .form-control:focus {
-    outline: 0.1875rem solid #d98200;
+    outline: 0.1875rem solid #ff6600ff;
 }
 
 .carousel .carousel-control .icon-next:hover i, .carousel .carousel-control .icon-prev:hover i, .dropdown:hover .expand-more, .page-my-account #content .links a:hover i, .search-widget form button[type=submit] .search:hover, .top-menu .sub-menu a:hover {
-    color: #d98200;
+    color: #ff6600ff;
 }
 
 .bootstrap-touchspin .group-span-filestyle .btn-touchspin, .group-span-filestyle .bootstrap-touchspin .btn-touchspin, .group-span-filestyle .btn-default {
-    background: #d98200;
+    background: #ff6600ff;
 }
 
 .tabs .nav-tabs .nav-link.active {
-    color: #d98200;
+    color: #ff6600ff;
 }
 
 #blockcart-modal .product-name {
-    color: #d98200;
+    color: #ff6600ff;
 }
 
 .custom-radio input[type=radio]:checked+span {
-    background-color: #d98200;
+    background-color: #ff6600ff;
 }
 
 .brands-sort .select-list:hover, .products-sort-order .select-list:hover, .suppliers-sort .select-list:hover {
@@ -67,10 +67,14 @@ div.cart-preview.active i:hover {
 }
 
 a {
-    color: #d98200;
+    color: #ff6600ff;
 }
 
-.footer-container {
+.btn-primary.disabled:hover, .btn-primary:disabled:hover {
+    background-color: #FF5722;
+}
+
+a[href="https://www.prestashop-project.org/"] {
     display: none;
 }
 
